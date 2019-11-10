@@ -1,0 +1,79 @@
+/*Conteudo principal*/ 
+
+body{
+	height: 200px;
+}
+
+#principal{
+	background-image: url('imagem1.jpg');
+	background-size: 100%;
+	min-height: 400px;
+	padding: 100px 0 0 0;		
+}
+
+.formacao_academica{
+	background-color: red;
+
+
+}
+
+
+.container{
+	margin: 0 auto;
+}
+
+.efeito{
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 20px 0 20px 0;
+}
+
+#menu a:hover{
+	background: #545454;
+	color: white;
+	text-shadow: 1px 1px 1px black;
+	border-radius: 25px;
+
+}
+
+#menu{
+	font-family: helvetica;
+	padding-right: 10% ;
+	background: none;
+	width: 100%;
+
+
+}
+
+#logo_position{ 
+	padding-left: 3%;
+}
+
+#principal{
+	clear: both;	
+}
+
+
+
+/* Rodapé */
+
+#rodape {
+	font-family: monospace;
+	color: #545454;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+/*foto rodapé*/
+#rodape img {
+	width: 30px;
+	height: 30px;
+}
+
+
+footer{
+	color: white;
+	padding: 30px;
+	
+
+}
+
