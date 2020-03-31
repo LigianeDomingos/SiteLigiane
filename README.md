@@ -7,7 +7,9 @@
   -Experiencias Complementar;  
   -Contato;  
   
+  #####  Em andamento:
+  
 ####  Back-End - Dados:
   -Mensagem para contato;  
-  -Analisando aplicaplilidade...
+  -Analisando aplicabilidades...frameworks
   
